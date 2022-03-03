@@ -8,11 +8,11 @@
         </a>
 </p>
 
-As of 2/14, this extension has ~70,000 users meaning 70,000 fewer people have to use iReady. Problem is, that barely makes a dent in i-Ready's 10,000,000+ students (0.7%). If your school uses i-Ready, recommend this extension. They'll thank you. 
+As of 2/14, this extension has ~70,000 users meaning 70,000 fewer people have to use iReady. Problem is, that barely makes a dent in i-Ready's 10,000,000+ students (0.7%). If your school uses i-Ready, recommend this extension. They'll thank you. And please, do be sure to take a look at the FAQ below before bringing up an issue in the Github repository.
 
 ## How to use/install
 
-For information on how to install, visit [here](https://github.com/cupiditys/iReady-Overload/wiki/How-to-install)
+For information on how to install, visit [here](https://github.com/cupiditys/iReady-Overload/wiki/How-to-install).
 <br/>
 
 The current "diagnostic hack" is [here](https://vault0.netlify.app). Please note the following things:
@@ -31,6 +31,38 @@ while (obviously) I try my hardest to prevent you from getting in trouble, there
 <details>
 	<summary><b>Changes made (from original version)</b></summary>
 Differences/Changes made from ArjhanToteck's original i-Ready Overload include rewritten functions (lesson skipper, minutes hack), newer code is now obfuscated, and portions of the UI changed to bypass i-Ready "anticheat".
+</details>
+
+## FAQ
+<details>
+	<summary><b>How do I send feedback about this thing?</b></summary>
+
+You can bring up an issue on the Github repository or leave a comment on the Chrome Webstore page. But please, do be sure to check the rest of the FAQ before bringing up an issue.
+</detail>
+
+<details>
+	<summary><b>I want to contribute to this, how do I so?</b></summary>
+
+Create and submit a pull request.
+</details>
+
+<details>
+	<summary><b>The script isn't working, what do I do?</b></summary>
+
+It may be that you have an older version, or that you simply followed the wrong steps. Always check either of these two options before complaining. In the worst case scenario, it might be that the script itself has been patched, but it's not likely to happen for a while. (Please be patient about this.)
+</details>
+
+<details>
+	<summary><b>Is there something like this for other school related programs?</b></summary>
+
+Probably not, but your best bet would most likely be to use some of the following:
+<ul>
+	<li>https://botanybay.vercel.app/ (Savvas Realize)</li>
+	<li>https://www.symbolab.com/ (Math related)</li>
+	<li>https://www.mathway.com/Algebra (Math related)</li>
+	<li>https://photomath.com/ (Math related)</li>
+</ul>
+Please be aware that I do not own the above sites, and that again, common sense is needed when using these (i.e. not using them in school and only at home when possible).
 </details>
 
 ## Extra
