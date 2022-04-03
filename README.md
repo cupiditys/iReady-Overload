@@ -2,6 +2,8 @@
 
 <h1 align="center">iReady Overload</h1>
 
+			note: I will no longer be releasing updates on github, only in the discord server below (click the icon)
+
 <p align="center">
         <a href="https://discord.gg/y7X5CSWyR5">
 	       <img src="https://img.shields.io/discord/946493443763490846?label=discord&logo=discord">
