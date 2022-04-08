@@ -6,7 +6,7 @@
 
 <p align="center">
         <a href="https://discord.gg/wgM2GQvzfz">
-	       <img src="https://img.shields.io/discord/946493443763490846?label=discord&logo=discord">
+	       <img src="https://img.shields.io/discord/961814415336951829?label=discord&logo=discord">
         </a>
 </p>
 
