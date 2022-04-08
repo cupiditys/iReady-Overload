@@ -5,7 +5,7 @@
 		note: I will no longer be releasing updates on github, only in the discord server below (click the icon)
 
 <p align="center">
-        <a href="https://discord.gg/y7X5CSWyR5">
+        <a href="https://discord.gg/wgM2GQvzfz">
 	       <img src="https://img.shields.io/discord/946493443763490846?label=discord&logo=discord">
         </a>
 </p>
